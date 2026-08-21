@@ -1,6 +1,6 @@
 # Ahmet Selcuk Ozyurt
 
-## Full-Stack Software Architect | AI-Augmented Software Delivery
+## Software Architect | AI-Augmented Software Delivery
 
 ---
 
@@ -17,21 +17,21 @@
 
 ## Summary
 
-I build software delivery systems where AI agents, engineers, code review, testing, and deployment pipelines work together.
+I am a hands-on software architect with 14+ years of production engineering experience. My current work applies that background to AI agents, developer tooling, and AI-augmented software delivery.
 
-My background is 14+ years of senior full-stack engineering across tax, fintech, banking, SaaS, and consumer products. The foundation is still hands-on: React, TypeScript, .NET, AWS, Kubernetes, CI/CD, testing, and platform architecture. My current focus is applying that experience to AI-augmented software delivery: agentic workflows, MCP integrations, reusable skills, automated review, test generation, and ticket-to-PR delivery.
+The foundation is still hands-on: React, TypeScript, .NET, AWS, Kubernetes, CI/CD, testing, and platform architecture across tax, fintech, banking, SaaS, and consumer products.
 
-I am especially interested in AI tools that improve real engineering throughput without weakening quality gates, software architecture, ownership, or human accountability.
+I am especially interested in AI tools that improve real engineering throughput without weakening review, software architecture, ownership, or human accountability.
 
 ---
 
 ## AI Engineering Focus
 
 - **AI-augmented delivery design:** turning requirements, implementation, review, testing, and release into connected human-in-the-loop workflows.
-- **Agentic delivery workflows:** task intake, planning, implementation loops, human approval, and pull-request handoff.
+- **AgentBoard:** a local operating layer for AI-assisted delivery with PM, Worker, Reviewer, and Human roles.
 - **MCP and tool integration:** connecting AI coding agents to GitHub, Jira, SonarCloud, local repositories, and custom workflows.
-- **Reusable agent skills:** codifying engineering standards, review patterns, testing expectations, and repository-specific knowledge.
-- **Human-in-the-loop engineering:** keeping engineers in control of decisions while automating repetitive investigation, scaffolding, and verification.
+- **Repository instructions and skills:** moving repeated project conventions into versioned guidance that agents and engineers can reuse.
+- **Human-in-the-loop engineering:** keeping engineers in control while agents handle scoped investigation, implementation, and review support.
 - **Quality automation:** AI-assisted code review, test generation, dependency-risk triage, and CI/CD-aware delivery.
 - **Developer productivity products:** local tools for agent orchestration, notifications, session management, and kanban-style AI work tracking.
 
@@ -41,7 +41,7 @@ I am especially interested in AI tools that improve real engineering throughput 
 
 I build and maintain AI-assisted engineering products and experiments under [EdgeeTech](https://github.com/edgeetech).
 
-- [agentboard](https://github.com/edgeetech/agentboard) - local kanban board where AI agents do the implementation work and humans verify, approve, and iterate.
+- [agentboard](https://github.com/edgeetech/agentboard) - local operating layer for AI-assisted delivery with PM, Worker, Reviewer, Human approval, run history, and cost tracking.
 - [claude-notifier](https://github.com/edgeetech/claude-notifier) - Windows tray notifier for Claude Code permission prompts.
 - AI-augmented delivery experiments - local automation for task breakdown, code review support, test generation, and delivery handoff.
 - EdgeeTech delivery tooling - GitHub Actions, AWS deployment utilities, Helm/EKS deployment automation, and supporting full-stack product repositories.
@@ -75,7 +75,7 @@ Claude Code, Codex, MCP, agent skills, subagents, plugins, multi-agent orchestra
 ## Current Work
 
 ### Bright Software Group / BrightTax
-**UI Team Lead, Senior Full-Stack Engineer, DevOps Engineer & AI Champion**  
+**Senior Full-Stack Engineer · UI Lead · DevOps & AI Champion**  
 **2020 - Present**
 
 BrightTax is a multi-tenant SaaS accounting and tax platform covering accounts production, corporation tax, self-assessment, VAT, partnership tax, and practice management.
@@ -84,7 +84,7 @@ BrightTax is a multi-tenant SaaS accounting and tax platform covering accounts p
 - Own shared component-library and design-system standards across tax and accounting modules.
 - Define engineering standards for TypeScript, testing, code review, dependency management, and frontend quality.
 - Maintain CI/CD and cloud delivery across GitHub Actions, Bitbucket Pipelines, AWS, Docker, and Kubernetes-hosted .NET APIs.
-- Lead AI-assisted development adoption through reusable agent skills, MCP workflows, automated review, test-generation workflows, and Jira/GitHub/SonarCloud integrations.
+- Lead AI-assisted development adoption through repository-specific agent instructions, MCP workflows, automated review, test-generation workflows, and Jira/GitHub/SonarCloud integrations.
 - Contribute to ASP.NET Core services, Entity Framework Core, NUnit tests, and HMRC tax API/rule integrations.
 
 ---
@@ -103,7 +103,7 @@ BrightTax is a multi-tenant SaaS accounting and tax platform covering accounts p
 
 | Organisation | Role | Period |
 | --- | --- | --- |
-| Bright Software Group / BrightTax | UI Team Lead, Senior Full-Stack Engineer, DevOps Engineer & AI Champion | 2020 - Present |
+| Bright Software Group / BrightTax | Senior Full-Stack Engineer, UI Lead, DevOps & AI Champion | 2020 - Present |
 | EdgeeTech | Founder / AI-assisted engineering product builder | Ongoing |
 | zero2hero Meta | Frontend Architect & Senior Developer | 2020 |
 | Blackhawk Network Europe | Software Developer | 2019 - 2020 |
