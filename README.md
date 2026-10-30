@@ -46,6 +46,8 @@ I build and maintain AI-assisted engineering products and experiments under [Edg
 - AI-augmented delivery experiments - local automation for task breakdown, code review support, test generation, and delivery handoff.
 - EdgeeTech delivery tooling - GitHub Actions, AWS deployment utilities, Helm/EKS deployment automation, and supporting full-stack product repositories.
 
+Outside AI tooling, I also build [Yuvuno](https://yuvuno.com) - parent-managed private family photo sharing with relatives, kept separate from a public kids' video catalogue. Free, invite-only beta; TypeScript, React, Hono on Cloudflare Workers, D1 and R2.
+
 ---
 
 ## Technical Foundation
