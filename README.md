@@ -43,6 +43,7 @@ I build and maintain AI-assisted engineering products and experiments under [Edg
 
 - [Taksim](https://taksim.edgee.tech) - intelligence control plane for coding agents. It applies policy, quality, privacy, and budget constraints around Claude Code, Codex, and Devin, verifies outcomes with builds, tests, and checks, and escalates to stronger models or human review only when the evidence requires it. Local-first Windows CLI, free for personal use.
 - [agentboard](https://github.com/edgeetech/agentboard) - local operating layer for AI-assisted delivery with PM, Worker, Reviewer, Human approval, run history, and cost tracking.
+- [agentworkstation](https://github.com/edgeetech/agentworkstation) - Windows-first Electron desktop hub for specialist AI agents (Career, Blogger, Accountant) that runs on your own Claude Code, Codex, or GitHub Copilot subscription, or a local Ollama model. Every write is approval-gated against an exact diff. Personal-first, in maintenance mode.
 - [claude-notifier](https://github.com/edgeetech/claude-notifier) - Windows tray notifier for Claude Code permission prompts.
 - AI-augmented delivery experiments - local automation for task breakdown, code review support, test generation, and delivery handoff.
 - EdgeeTech delivery tooling - GitHub Actions, AWS deployment utilities, Helm/EKS deployment automation, and supporting full-stack product repositories.
