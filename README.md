@@ -41,6 +41,7 @@ I am especially interested in AI tools that improve real engineering throughput 
 
 I build and maintain AI-assisted engineering products and experiments under [EdgeeTech](https://github.com/edgeetech).
 
+- [Taksim](https://taksim.edgee.tech) - intelligence control plane for coding agents. It applies policy, quality, privacy, and budget constraints around Claude Code, Codex, and Devin, verifies outcomes with builds, tests, and checks, and escalates to stronger models or human review only when the evidence requires it. Local-first Windows CLI, free for personal use.
 - [agentboard](https://github.com/edgeetech/agentboard) - local operating layer for AI-assisted delivery with PM, Worker, Reviewer, Human approval, run history, and cost tracking.
 - [claude-notifier](https://github.com/edgeetech/claude-notifier) - Windows tray notifier for Claude Code permission prompts.
 - AI-augmented delivery experiments - local automation for task breakdown, code review support, test generation, and delivery handoff.
